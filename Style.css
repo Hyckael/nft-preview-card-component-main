@@ -169,7 +169,7 @@ footer .attribution{
     transition-duration: .5s;
 }
  
-@media (max-width:810px) {
+@media (max-width:376px) {
     
     .card{
         height: 30rem;
