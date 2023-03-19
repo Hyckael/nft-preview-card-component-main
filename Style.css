@@ -17,7 +17,7 @@ body{
     flex-direction: column;
 }
 .card{
-    height: 70%;
+    height: 34rem;
     padding: 1em;
     width: 18rem;
     min-width: 200px;
@@ -144,7 +144,7 @@ body{
 
 .dispo span:hover {
     color: hsl(178, 100%, 50%);
-    font-size: 15px;
+    font-size: 18px;
 }
 
 
@@ -155,7 +155,7 @@ footer {
     padding-top: 30px;
 }
 footer .attribution{
-    font-size: 14px;
+    font-size: 15px;
     text-align: center;
     color: #fff;
 }
@@ -172,6 +172,6 @@ footer .attribution{
 @media (max-width:810px) {
     
     .card{
-        height: 60%;
+        height: 34rem;
     }
  }
